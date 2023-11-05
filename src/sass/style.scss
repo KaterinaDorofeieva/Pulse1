@@ -1,6 +1,9 @@
 *{
     font-family: 'Museo Sans', sans-serif;
-    color: #fff
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 @import "base/mixins";
